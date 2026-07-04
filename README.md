@@ -1,5 +1,5 @@
 <img src="./image.png" width="500" alt="purple masked character">
-<img src="./banner.png" width="100%" alt="profile banner">
+
 
 # Hi, I'm Blanche
 
