@@ -16,7 +16,7 @@ Linux user and Python developer with experience in JavaScript, TypeScript, and s
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,bash,linux,git,github,vscode" />
 </p>
----
+
 
 ## Featured Project
 
